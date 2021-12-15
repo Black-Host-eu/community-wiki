@@ -11,6 +11,7 @@ Schaue in template.php und passe diese richtig an.
 - Sollten deine Beiträge oftmals viele und schwerwiegende Fehler enthalten, wirst du aus der Liste gestrichen und darfst nicht länger Creator sein.
 - Du hast dafür zur Sorgen, dass dein Beitrag immer auf dem neusten Stand ist, ansonsten wird dir dein Creator Status entzogen.
 - Das Bearbeiten anderer Beiträge ist nicht gestattet.
+- Beiträge die nicht der aktuellen Template Version entsprechen sind binnen 7 Tage sofort anzupassen, ansonsten wird der Beitrag sowie der Creator Status von uns entfernt.
 
 ## Zur Wiki
 https://wiki.black-host.eu/beta/
