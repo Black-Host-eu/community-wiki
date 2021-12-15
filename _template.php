@@ -15,8 +15,7 @@
 						
   <br><br>
   
-  Ein kleiner Text 2		
-</div>
+  Ein kleiner Text 2
 									
 </div>
 <!-- Text zur Überschrift -->
