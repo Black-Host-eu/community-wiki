@@ -1,8 +1,11 @@
 # Was ist die Community Wiki?
 Hier kannst du und die Community Beiträge schreiben, diese werden geprüft und veröffentlicht.
 
-# Wie geht das?
-Schaue in template.php und passe diese richtig an. Wir schauen uns später deinen Beitrag an und werden diesen veröffentlichen.
+## Wie geht das?
+Schaue in template.php und passe diese richtig an.
 
-# Zur Wiki
+## Wann ist mein Beitrag öffentlich
+2x täglich werden alle Beiträge automatisiert veröffentlicht
+
+## Zur Wiki
 https://wiki.black-host.eu/beta/
