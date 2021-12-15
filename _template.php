@@ -1,4 +1,3 @@
-										
 <!-- Überschrift -->
 <h1 class="anchor fw-bolder mb-5" data-kt-scroll-offset="85" id="">								
   <a href="#deine-überschrift" data-kt-scroll-toggle=""></a>				
@@ -11,11 +10,7 @@
 <!-- Text zur Überschrift -->
 <div class="py-5">
 	
-  Ein kleiner Text 1
-						
-  <br><br>
-  
-  Ein kleiner Text 2
+  Ein kleiner Text 1						
 									
 </div>
 <!-- Text zur Überschrift -->
