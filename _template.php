@@ -1,3 +1,5 @@
+<div class="pb-10">
+
 <!-- Überschrift -->
 <h1 class="anchor fw-bolder mb-5" data-kt-scroll-offset="85" id="">								
   <a href="#deine-überschrift" data-kt-scroll-toggle=""></a>				
@@ -14,6 +16,7 @@
 									
 </div>
 <!-- Text zur Überschrift -->
+</div>
 
 <!-- -->
 
