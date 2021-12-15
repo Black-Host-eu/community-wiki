@@ -1,3 +1,4 @@
+<div class="py-10">
 <!-- Überschrift -->
 <h1 class="anchor fw-bolder mb-5" data-kt-scroll-offset="85" id="">								
   <a href="#wie-werden-daten-geschützt" data-kt-scroll-toggle=""></a>				
@@ -14,6 +15,7 @@ Vorab sind alle Administrationzugriffe über eine 2FA geschützt, somit haben es
 									
 </div>
 <!-- Text zur Überschrift -->
+</div>
 
 <!-- -->
 
