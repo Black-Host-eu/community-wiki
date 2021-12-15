@@ -14,3 +14,6 @@ Schaue in template.php und passe diese richtig an.
 
 ## Zur Wiki
 https://wiki.black-host.eu/beta/
+
+## Offizieller Release
+Aktuell steht der Release zum 01.01.2022
