@@ -22,7 +22,7 @@
 													<div class="fs-4 text-gray-600 py-3">
 														Der Upload ist zu schelcht? Schau dir diesen Beitrag an, vielleicht wird dein Problem hier behoben.
 													</div>
-													<a href="<?= $url ?>kvm-upload-zu-schlecht" class="btn btn-lg btn-flex btn-link btn-color-info">Anschauen
+													<a href="kvm-upload-zu-schlecht" class="btn btn-lg btn-flex btn-link btn-color-info">Anschauen
 													<!--begin::Svg Icon | path: icons/duotune/arrows/arr064.svg-->
 													<span class="svg-icon ms-2 svg-icon-3">
 														<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -40,7 +40,7 @@
 													<div class="fs-4 text-gray-600 py-3">
 														Hier findest du eine Liste, der Einrichtungsdauer, von unseren Produkten.
 													</div>
-													<a href="<?= $url ?>einrichtungsdauer" class="btn btn-lg btn-flex btn-link btn-color-success">Anschauen 
+													<a href="einrichtungsdauer" class="btn btn-lg btn-flex btn-link btn-color-success">Anschauen 
 													<!--begin::Svg Icon | path: icons/duotune/arrows/arr064.svg-->
 													<span class="svg-icon ms-2 svg-icon-3">
 														<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
