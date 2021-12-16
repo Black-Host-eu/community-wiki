@@ -16,10 +16,10 @@
  	Da ich deine Domain nicht kenne, habe ich den Platzhalter deinedomain.de gewählt. Dies ist aber analog bei allen anderen Domains.
   Also - du musst überall deinedomain.de durch deine Domain (bspw. black-host.eu, google.de)
 
-  @         --> A     --> 88.198.11.120
-  webmail   --> A     --> 88.198.11.120
-  mail      --> A     --> 88.198.11.120
-  @         --> MX(10)--> mail.deinedomain.de
+  @         --> A     --> 88.198.11.120 <br>
+  webmail   --> A     --> 88.198.11.120 <br>
+  mail      --> A     --> 88.198.11.120 <br>
+  @         --> MX(10)--> mail.deinedomain.de <br>
 
 </div>
 <!-- Text zur Überschrift -->
