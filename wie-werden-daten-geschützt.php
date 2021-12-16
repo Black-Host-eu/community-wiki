@@ -26,7 +26,7 @@ Vorab sind alle Administrationzugriffe über eine 2FA geschützt, somit haben es
 										
   <h1 class="anchor fw-bolder mb-5" data-kt-scroll-offset="85" id="">
     <a href="#die-backup-sicherheit" data-kt-scroll-toggle=""></a>
-    EDie Backup Sicherheit
+    Die Backup Sicherheit
   </h1>
 										
   <div class="py-5">
