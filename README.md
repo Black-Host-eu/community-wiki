@@ -5,7 +5,7 @@ Hier kannst du und die Community Beiträge schreiben, diese werden geprüft und 
 Schaue in template.php und passe diese richtig an.
 
 ## Wann ist mein Beitrag öffentlich
-2x täglich werden alle Beiträge automatisiert veröffentlicht (08:00 und 12:00 Uhr)
+2x täglich werden alle Beiträge automatisiert veröffentlicht (08:00 und 12:00 Uhr). Beiträge werden automatisch aktualisiert.
 
 ## Regelwerk
 - Sollten deine Beiträge oftmals viele und schwerwiegende Fehler enthalten, wirst du aus der Liste gestrichen und darfst nicht länger Creator sein.
