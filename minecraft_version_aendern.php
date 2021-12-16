@@ -11,7 +11,7 @@
 
 <!-- Text zur Überschrift -->
 <div class="py-5">
-    <h5>Dies ist ganz Einfach :)<h5>
+    <h5>Dies ist ganz Einfach :)</h5>
     <br><p>Sie müssen nur diese folgenden Schritte Durchführen.</p>
     <br><p>Schritt Eins ist, Sie müssen in dem Header bereich auf der Auswahl: "Configuration" Klicken</p>
     <br><p>Dann haben sie 3 Neue Asuwahl möglich keiten, sie klicken jetzt auf: "Advanced".</p>
