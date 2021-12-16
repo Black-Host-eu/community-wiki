@@ -14,7 +14,7 @@
 
   Für unseren VWEB01 musst du für deine Domain folgende Einträge setzen.
  	Da ich deine Domain nicht kenne, habe ich den Platzhalter deinedomain.de gewählt. Dies ist aber analog bei allen anderen Domains.
-  Also - du musst überall deinedomain.de durch deine Domain (bspw. black-host.eu, google.de)
+  Also - du musst überall deinedomain.de durch deine Domain (bspw. black-host.eu, google.de) <br>
 
   @         --> A     --> 88.198.11.120 <br>
   webmail   --> A     --> 88.198.11.120 <br>
