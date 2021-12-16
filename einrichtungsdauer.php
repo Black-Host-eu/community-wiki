@@ -12,11 +12,13 @@
 <!-- Text zur Überschrift -->
 <div class="py-5">
 
-  WebServer     --> 60 Sekunden
-  KVM           --> 60 Sekunden
-  CloudServer	  --> max. 60 Sekunden
-  Web-Reseller 	--> manuelle Freischaltung
-  Dedicated     --> ca. 1 Werktag
+  WebServer     --> 60 Sekunden <br>
+  KVM           --> direkt nach Bestellung <br>
+  CloudServer	--> direkt nach Bestellung <br>
+  Web-Reseller 	--> manuelle Freischaltung (Gewerbeprüfung)<br>
+  Dedicated     --> ca. 1 Werktag <br>
+  GameServer    --> direkt nach Bestellung <br>
+  SinusBot      --> direkt nach Bestellung <br>
 
 </div>
 <!-- Text zur Überschrift -->
