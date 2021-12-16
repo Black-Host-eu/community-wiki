@@ -14,11 +14,11 @@
 
   Herzlichen Glückwunsch zu deinem GameServer!
   Hier eine Anleitung zur Verwaltung:
-  Nach deiner Bestellung siehst du deine Login-Daten indem du auf Verwalten klickst: <img src="https://prnt.sc/235xykg.png" alt="">
+  Nach deiner Bestellung siehst du deine Login-Daten indem du auf Verwalten klickst: <img src="https://data.black-host.eu/share/Bild_2021-12-16_180253.png" alt="">
   Nachdem du diese offen hast, empfehlen wir, die folgende Seite in einem neuen Tab zu öffnen <a href="https://game.host-control.eu/">https://game.host-control.eu/</a>
-  Danach müsstest du folgenden Screen sehen <img src="https://prnt.sc/235ya1b.png" alt="">
-  Deine IP siehst du hier: <img src="https://prnt.sc/235yfro.png" alt="">
-  Über diese Buttons kannst du deinen Server Starten / Stoppen / Hardstoppen: <img src="https://prnt.sc/235ynbf.png" alt="">
+  Danach müsstest du folgenden Screen sehen <img src="https://data.black-host.eu/share/Bild_2021-12-16_180310.png" alt="">
+  Deine IP siehst du hier: <img src="https://data.black-host.eu/share/Bild_2021-12-16_180328.png" alt="">
+  Über diese Buttons kannst du deinen Server Starten / Stoppen / Hardstoppen: <img src="https://data.black-host.eu/share/Bild_2021-12-16_180346.png" alt="">
 
 	Weitere Fragen beantwortet dir unser <a href="https://cp.black-host.eu/tickets">Support</a> gerne.								
 </div>
