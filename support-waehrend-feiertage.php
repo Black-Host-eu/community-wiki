@@ -12,8 +12,7 @@
 <!-- Text zur Überschrift -->
 <div class="py-5">
 	
-Während den Feiertagen ist der Support nur eingeschränkt oder gar nicht erreichbar. Der Grund ist einfach: Unsere Teamler arbeiten freiwillig und werden nicht bezahlt
-  , weshalb wir genug Freizeit schaffen wollen.
+Während den Feiertagen ist der Support nur eingeschränkt oder gar nicht erreichbar. Der Grund ist einfach: Unsere Teamler arbeiten freiwillig und werden nicht bezahlt, weshalb wir genug Freizeit schaffen wollen.
 									
 </div>
 <!-- Text zur Überschrift -->
