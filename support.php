@@ -22,10 +22,10 @@
   <a href="mailto:savety@black-host.eu">Sicherheit</a> <br>
   <a href="mailto:rechtsabteilung@black-host.eu">Rechtsabteilung</a> <br>
   <a href="mailto:buchhaltung@black-host.eu">Buchhaltung</a> <br>
-  <a href="mailto:care@black-host.eu">Wünsche / FeedBack</a>
-  <a href="mailto:info@black-host.eu">Managment</a>
-  <a href="mailto:netzwerk@black-host.eu">Netzwerk</a>
-  <a href="mailto:order@black-host.eu">Bestellungen</a>
+  <a href="mailto:care@black-host.eu">Wünsche / FeedBack</a> <br>
+  <a href="mailto:info@black-host.eu">Managment</a> <br>
+  <a href="mailto:netzwerk@black-host.eu">Netzwerk</a> <br>
+  <a href="mailto:order@black-host.eu">Bestellungen</a> <br>
   <a href="mailto:verkauf@black-host.eu">Verkauf</a>
 
 
