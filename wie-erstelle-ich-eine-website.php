@@ -14,7 +14,7 @@
 
   Um eine Domain in deinem WebServer zu hinterlegen, befolge folgende Schritte:
   1. Logge dich auf <a href="https://vweb01.host-control.eu">hier klicken</a>	mit den aus dem Panel erhaltenen Zugangsdaten ein.
-  2. Danach müsstest du dieses Fenster sehen: <img src="https://data.black-host.eu/share/Bild_2021-12-16_162253.png" alt="ScreenPlesk">
+  2. Danach müsstest du dieses Fenster sehen: <img widht="100" src="https://data.black-host.eu/share/Bild_2021-12-16_162253.png" alt="ScreenPlesk">
   3. Hier klickst du auf "Domain hinzufügen": <img src="https://data.black-host.eu/share/Bild_2021-12-16_162404.png" alt="ScreenDomain">
   4. Hier gibst du deine Domain-Daten ein, aber zuerst musst du einige DNS-Einträge setzen. Wie das funktioniert, findest du <a href="dns-einträge.php">hier </a>. Nachdem du das gemacht hast, kannst du die Daten hier eintragen <img src="https://data.black-host.eu/share/Bild_2021-12-16_162432.png" alt="">
   4.1 Wenn du noch keine Domain hast, kannst du diese entweder <a href="https://cp.black-host.eu/order/domain">hier erwerben</a> oder eine Plesk-Subdomain nutzen. Diese kannst du bekommen, indem du hier klickst: <img src="https://data.black-host.eu/share/Bild_2021-12-16_162504.png" alt="">
