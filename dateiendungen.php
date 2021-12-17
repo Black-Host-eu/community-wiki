@@ -29,10 +29,10 @@
       <pre class=" language-bash" tabindex="0">
       <code class=" language-bash">
  						<!-- Code hier Start -->	   
-    RewriteEngine on <br>
-    RewriteCond %{REQUEST_FILENAME} !-d <br>
-    RewriteCond %{REQUEST_FILENAME}\.html -f <br>
-    RewriteRule ^(.*)$ $1.html [NC,L] <br>
+    RewriteEngine on
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME}\.html -f
+    RewriteRule ^(.*)$ $1.html [NC,L]
 						<!-- Code hier Ende -->								
       </code>
       </pre>
