@@ -14,11 +14,32 @@
 
   Sind wir ehrlich, Dateiendungen sind einfach nur out! <br>
   Deshalb hier der perfekte Hack, mit dem du diese einfach weglassen kannst. <br>
-  Erstelle einfach eine .htaccess Datei mit folgendem Inhalt: <br>
+  Erstelle einfach eine .htaccess Datei mit folgendem Inhalt: <br><br>
+
+
+											
+  <div class="highlight"> <!-- Start Copy Section -->
+												
+    <button class="highlight-copy btn" data-bs-toggle="tooltip" title="" data-bs-original-title="Kopiere die folgenden Zeilen">					
+      kopieren						
+    </button>
+												
+													
+    <div class="highlight-code">
+      <pre class=" language-bash" tabindex="0">
+      <code class=" language-bash">
+ 						<!-- Code hier Start -->	   
     RewriteEngine on <br>
     RewriteCond %{REQUEST_FILENAME} !-d <br>
     RewriteCond %{REQUEST_FILENAME}\.html -f <br>
     RewriteRule ^(.*)$ $1.html [NC,L] <br>
+						<!-- Code hier Ende -->								
+      </code>
+      </pre>
+    </div>
+
+  </div> <!-- Ende Copy Section -->
+
 
 
 </div>
