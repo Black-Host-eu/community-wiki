@@ -11,9 +11,10 @@
 
 <!-- Text zur Überschrift -->
 <div class="py-5">
-
-  Um dein Passwort zu ändern führe folgende Commands via SSH durch:
-
+  Falls du einen KVM von uns hast, kannst du dein Passwort ganz einfach über Virtualizor tun. Hier musst du dich einloggen
+  , deinen KVM wählen, danach auf Einstellungen --> VPS Konfigurieren. Danach kannst du dein Passwort ändern. Bitte denke daran, den Server danach neuzustarten. <br> 
+  
+Wenn du via SSH verbunden bist, kannst du einfach folgendes eingeben:
   <div class="highlight">
     <!-- Start Copy Section -->
 
@@ -27,15 +28,18 @@
     <code class=" language-bash">
           <!-- Code hier Start -->
   passwd
-  # hier neues Passwort eingeben, dann Enter drücken :)
           <!-- Code hier Ende -->
     </code>
     </pre>
   </div>
 </div> <!-- Ende Copy Section -->
+  
 
 </div>
 <!-- Text zur Überschrift -->
-</div>
+<div class="py-5">
+  Danach drückst du Enterl gibst dein neues Passwort ein und drückst nochmals Enter. <br>
+
+Et voila! Dein Passwort wurde geändert.
 
 <!-- -->
