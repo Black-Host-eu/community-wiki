@@ -11,7 +11,7 @@
 
 <!-- Text zur Überschrift -->
 <div class="py-5">
-  Falls du einen KVM von uns hast, kannst du dein Passwort ganz einfach über Virtualizor tun. Hier musst du dich einloggen
+  Falls du einen KVM von uns hast, kannst du dein Passwort ganz einfach über Virtualizor ändern. Hier musst du dich einloggen
   , deinen KVM wählen, danach auf Einstellungen --> VPS Konfigurieren. Danach kannst du dein Passwort ändern. Bitte denke daran, den Server danach neuzustarten. <br> 
   
 Wenn du via SSH verbunden bist, kannst du einfach folgendes eingeben:
