@@ -12,7 +12,7 @@
 <!-- Text zur Überschrift -->
 <div class="py-5">
 
-  Unsere KVM-Server haben einige veraltet Debian Pakete, sollte ein derartiger Fehler auftreten nutze <b>apt-get dist-upgrade</b>.
+  Unsere KVM-Server haben einige veraltet Debian Pakete, sollte ein derartiger Fehler auftreten nutze <b>apt-get dist-upgrade</b>.<br><br>
 
   <div class="highlight"> <!-- Start Copy Section -->
   <button class="highlight-copy btn" data-bs-toggle="tooltip" title="" data-bs-original-title="Kopiere die folgenden Zeilen">
