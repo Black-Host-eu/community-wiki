@@ -20,7 +20,7 @@
 												<div class="bg-light rounded-3 p-10 mx-md-5 h-md-100">
 													<h1 class="mb-5">KVM-Server</h1>
 													<div class="fs-4 text-gray-600 py-3">
-														Der Upload ist zu schelcht? Schau dir diesen Beitrag an, vielleicht wird dein Problem hier behoben.
+														Der Upload ist zu schlecht? Schau dir diesen Beitrag an, vielleicht wird dein Problem hier behoben.
 													</div>
 													<a href="kvm-upload-zu-schlecht" class="btn btn-lg btn-flex btn-link btn-color-info">Anschauen
 													<!--begin::Svg Icon | path: icons/duotune/arrows/arr064.svg-->
