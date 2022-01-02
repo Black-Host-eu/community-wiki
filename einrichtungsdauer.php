@@ -19,6 +19,8 @@
   Dedicated     --> ca. 1 Werktag <br>
   GameServer    --> direkt nach Bestellung <br>
   SinusBot      --> direkt nach Bestellung <br>
+  Gamecloud     --> direkt nach der Bestellung <br>
+  Domain        --> direkt nach der Bestellung <br>
 
 </div>
 <!-- Text zur Überschrift -->
