@@ -12,7 +12,7 @@
 <!-- Text zur Überschrift -->
 <div class="py-5">
 	
-Vorab sind alle Administrationzugriffe über eine 2FA geschützt, somit haben es einige Angreifer schon mal sehr schwer. Unsere Cloudserver sind mit Nextcloud ausgestattet, diese Cloud-Software verschlüsselt deine Daten so, dass sogar wir keinen Zugriff darauf haben.			
+Vorab sind alle Administrationszugriffe über eine 2FA geschützt, somit haben es einige Angreifer schon mal sehr schwer. Unsere Cloudserver sind mit Nextcloud ausgestattet, diese Cloud-Software verschlüsselt deine Daten so, dass sogar wir keinen Zugriff darauf haben.			
 									
 </div>
 <!-- Text zur Überschrift -->
@@ -31,7 +31,7 @@ Vorab sind alle Administrationzugriffe über eine 2FA geschützt, somit haben es
 										
   <div class="py-5">
 									
-Wir haben Tier7 Backups, diese werden auf 3 verschiedenen extern gehosteten Standorte gespeichert. Bei der Auswahl der Rechenzentren, haben wir vorallem auf die Sicherheit bezüglich des Brandschutes und eingen anderen Faktoren geachtet. Die Daten werden dort verschlüsselt für 7 Tagen aufbewahrt und anschließend gelöscht. Die Löschung dient zum Sparen von Speicher.
+Wir haben Tier7 Backups, diese werden auf 3 verschiedenen extern gehosteten Standorte gespeichert. Bei der Auswahl der Rechenzentren haben wir vor allem auf die Sicherheit bezüglich des Brandschutzes und einigen anderen Faktoren geachtet. Die Daten werden dort verschlüsselt für 7 Tagen aufbewahrt und anschließend gelöscht. Die Löschung dient zum Sparen von Speicher.
 							
   </div>
 									
