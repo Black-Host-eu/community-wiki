@@ -31,7 +31,7 @@
   <div class="py-5">
 									
     Unter "Einstellungen" -> "VPS Konfigurieren" kann dir virtuelle Netzwerkkarte angepasst werden. Die 10 G Netzwerkkarte ist "Virtio", diese ist aber nicht standartgemäß ausgewählt. 
-    Sollte deine Verbindung immernoch nicht ausreichen, bitten wir dich dich im Support zu melden.
+    Sollte deine Verbindung immernoch nicht ausreichen, muss ein Mal zwischen dem Intel Adapter und dem Virtio Adapter wechseln - Dieses Problem liegt an Virtualizor (der KVM Software).
 							
   </div>
 									
